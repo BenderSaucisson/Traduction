@@ -1,0 +1,2 @@
+# Traduction
+Voix-Traduction-AffichageOBS
